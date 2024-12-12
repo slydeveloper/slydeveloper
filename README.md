@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=slydeveloper&count_private=true&show_icons=true&theme=react)](https://github.com/slydeveloper)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slydeveloper&hide=css,html&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/slydeveloper)
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/slydeveloper"
+    width="600"
+    height="127"
+  />
+</a>
+  
